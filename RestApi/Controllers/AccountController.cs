@@ -27,7 +27,7 @@ namespace RestApi.Controllers {
         private readonly IMapper map;
         private readonly JwtProperty jwtProp;
         public AccountController (
-
+//lama
             UserManager<ApplicationUser> _userManager,
             RoleManager<ApplicationRole> _roleManager,
             SignInManager<ApplicationUser> _signInManager,
