@@ -1,0 +1,14 @@
+A:\DartaChalaniSystem\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+A:\DartaChalaniSystem\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+A:\DartaChalaniSystem\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+A:\DartaChalaniSystem\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+A:\DartaChalaniSystem\BLL\bin\Debug\netcoreapp3.1\DomainModel.dll
+A:\DartaChalaniSystem\BLL\bin\Debug\netcoreapp3.1\DomainModel.pdb
+A:\DartaChalaniSystem\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+A:\DartaChalaniSystem\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+A:\DartaChalaniSystem\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+A:\DartaChalaniSystem\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+A:\DartaChalaniSystem\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+A:\DartaChalaniSystem\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+A:\DartaChalaniSystem\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+A:\DartaChalaniSystem\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
